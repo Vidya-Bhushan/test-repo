@@ -6,13 +6,13 @@
   "projectLevel" : "/",
   "groupName" : "dev",
   "iconId" : "0",
-  "status" : "ON_HOLD",
+  "status" : "ARCHIVE",
   "enabled" : false,
-  "endDate" : [ 2025, 11, 17, 18, 48, 6 ],
+  "endDate" : [ 2025, 11, 22, 11, 51, 5 ],
   "metadata" : {
     "createdBy" : "dataops",
     "updatedBy" : "dataops",
     "createdDate" : "2025-08-14T18:29:11Z",
-    "updatedDate" : "2025-11-22T11:29:55Z"
+    "updatedDate" : "2025-11-22T11:51:05Z"
   }
 }
