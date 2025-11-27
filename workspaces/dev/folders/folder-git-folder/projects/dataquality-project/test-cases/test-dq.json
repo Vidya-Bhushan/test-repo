@@ -6,7 +6,7 @@
     "executeOn" : "LOCAL",
     "flowName" : "dataq1764232573872",
     "email" : [ ],
-    "flowDesc" : "test dq",
+    "flowDesc" : "test dq1",
     "hadoop" : false,
     "livy" : false,
     "root" : "dataQuality",
