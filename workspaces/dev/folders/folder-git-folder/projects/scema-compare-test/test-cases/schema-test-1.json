@@ -6,7 +6,7 @@
     "executeOn" : "LOCAL",
     "flowName" : "dataq1764254146934",
     "email" : [ ],
-    "flowDesc" : "schema test 1",
+    "flowDesc" : "schema test 2",
     "hadoop" : false,
     "livy" : false,
     "root" : "dataCompare",
