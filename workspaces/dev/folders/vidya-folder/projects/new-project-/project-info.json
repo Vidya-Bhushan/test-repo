@@ -1,0 +1,18 @@
+{
+  "id" : 65,
+  "name" : "new project ",
+  "description" : " ",
+  "fileType" : "project",
+  "projectLevel" : "/45",
+  "groupName" : "dev",
+  "iconId" : "0",
+  "status" : "ACTIVE",
+  "enabled" : true,
+  "endDate" : null,
+  "metadata" : {
+    "createdBy" : "dataops",
+    "updatedBy" : "dataops",
+    "createdDate" : "2026-04-07T23:26:40Z",
+    "updatedDate" : "2026-04-07T23:28:13Z"
+  }
+}
