@@ -1,0 +1,18 @@
+{
+  "id" : 57,
+  "name" : "test rules",
+  "description" : " ",
+  "fileType" : "project",
+  "projectLevel" : "/47",
+  "groupName" : "dev",
+  "iconId" : null,
+  "status" : "ACTIVE",
+  "enabled" : true,
+  "endDate" : null,
+  "metadata" : {
+    "createdBy" : "vidya",
+    "updatedBy" : null,
+    "createdDate" : "2026-02-27T13:58:01Z",
+    "updatedDate" : null
+  }
+}

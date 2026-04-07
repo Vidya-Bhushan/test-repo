@@ -1,0 +1,16 @@
+{
+  "id" : 47,
+  "name" : "folder created by user",
+  "description" : " \n",
+  "fileType" : "folder",
+  "projectLevel" : "/",
+  "groupName" : "dev",
+  "iconId" : null,
+  "status" : "ACTIVE",
+  "metadata" : {
+    "createdBy" : "vidya",
+    "updatedBy" : null,
+    "createdDate" : "2026-02-24T20:12:02Z",
+    "updatedDate" : null
+  }
+}
