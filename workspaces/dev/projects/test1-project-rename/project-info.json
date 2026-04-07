@@ -1,0 +1,18 @@
+{
+  "id" : 46,
+  "name" : "test1 project rename",
+  "description" : "dsfsdf",
+  "fileType" : "project",
+  "projectLevel" : "/",
+  "groupName" : "dev",
+  "iconId" : null,
+  "status" : "ACTIVE",
+  "enabled" : true,
+  "endDate" : null,
+  "metadata" : {
+    "createdBy" : "vidya",
+    "updatedBy" : "dataops",
+    "createdDate" : "2026-02-24T20:10:02Z",
+    "updatedDate" : "2026-04-07T22:44:04Z"
+  }
+}
